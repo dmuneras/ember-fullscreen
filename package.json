@@ -51,6 +51,7 @@
   },
   "ember-addon": {
     "configPath": "tests/dummy/config",
-    "demoURL": "https://miguelcobain.github.io/ember-fullscreen/"
+    "demoURL": "https://miguelcobain.github.io/ember-fullscreen/",
+    "after": "ember-cli-shims"
   }
 }
